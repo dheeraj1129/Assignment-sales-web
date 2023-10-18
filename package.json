@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "react-app": "^1.1.2",
+    "react-font": "^1.2.1",
+    "react-icons": "^4.11.0",
+    "tailwindcss": "^3.3.3"
+  }
+}
